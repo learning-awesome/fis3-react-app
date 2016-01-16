@@ -36,7 +36,7 @@ fis3-react-app
 
 ## 示例截图
 
- ![image](https://raw.githubusercontent.com/hubcarl/fis-express-swig/master/client/public/static/images/demo.png)
+ ![image](https://raw.githubusercontent.com/hubcarl/fis3-react-app/master/public/images/demo.png)
 
 
 ## 快速开始
