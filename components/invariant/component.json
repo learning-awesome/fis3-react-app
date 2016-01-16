@@ -1,0 +1,10 @@
+{
+    "name": "invariant",
+    "description": "invariant",
+    "repos": "https://github.com/zertosh/invariant.git",
+    "main": "browser.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.2.0"
+}

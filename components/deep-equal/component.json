@@ -1,0 +1,10 @@
+{
+    "name": "deep-equal",
+    "description": "node's assert.deepEqual algorithm",
+    "repos": "https://github.com/substack/node-deep-equal.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.0.1",
+    "dependencies": {}
+}

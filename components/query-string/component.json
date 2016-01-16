@@ -1,0 +1,11 @@
+{
+    "name": "query-string",
+    "description": "Parse and stringify URL query strings",
+    "repos": "https://github.com/sindresorhus/query-string",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "strict-uri-encode": "^1.0.0"
+    },
+    "version": "3.0.0"
+}

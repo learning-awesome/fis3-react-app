@@ -1,0 +1,10 @@
+{
+    "name": "warning",
+    "description": "A mirror of Facebook's Warning",
+    "repos": "https://github.com/r3dm/warning.git",
+    "main": "browser.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.1.0"
+}

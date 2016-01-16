@@ -1,0 +1,8 @@
+{
+    "name": "strict-uri-encode",
+    "description": "A stricter URI encode adhering to RFC 3986",
+    "repos": "https://github.com/kevva/strict-uri-encode.git",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.0.2"
+}

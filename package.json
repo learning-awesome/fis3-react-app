@@ -1,0 +1,31 @@
+{
+  "name": "react-work",
+  "version": "0.0.1",
+  "description": "react-work",
+  "main":"app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "express-session": "^1.12.1",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "swig": "^1.4.2",
+    "caller": "0.0.1",
+    "mysql":"2.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hubcarl/react-work.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hubcarl/react-work/issues"
+  },
+  "homepage": "https://github.com/hubcarl/react-work",
+  "author": "sky",
+  "license": "MIT"
+}

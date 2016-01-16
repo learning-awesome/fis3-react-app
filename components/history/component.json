@@ -1,0 +1,15 @@
+{
+    "name": "history",
+    "description": "A minimal, functional history implementation for JavaScript",
+    "repos": "https://github.com/rackt/history.git",
+    "main": "lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "deep-equal": "^1.0.0",
+        "invariant": "^2.0.0",
+        "query-string": "^3.0.0",
+        "warning": "^2.0.0"
+    },
+    "version": "1.17.0"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "fiswig-bigpipe",
+  "version": "0.0.12",
+  "description": "An express.js middleware for fis widget pipline output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter dot --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fex-team/fiswig-bigpipe.git"
+  },
+  "keywords": [
+    "fis",
+    "bigpipe",
+    "middleware"
+  ],
+  "author": {
+    "name": "fex-team"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fex-team/fiswig-bigpipe/issues"
+  },
+  "homepage": "https://github.com/fex-team/fiswig-bigpipe",
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "istanbul": "~0.2.14",
+    "express": "~4.4.5",
+    "supertest": "~0.13.0",
+    "should": "~4.0.4"
+  },
+  "_id": "fiswig-bigpipe@0.0.12",
+  "dist": {
+    "shasum": "86db76eab59b119c28ccf0259b6f5c13a1eddb65",
+    "size": 9388,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/fiswig-bigpipe/download/fiswig-bigpipe-0.0.12.tgz"
+  },
+  "_from": "fiswig-bigpipe@>=0.0.1 <0.1.0",
+  "_npmVersion": "1.3.21",
+  "_npmUser": {
+    "name": "2betop",
+    "email": "2betop.cn@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "2betop",
+      "email": "2betop.cn@gmail.com"
+    },
+    {
+      "name": "fansekey",
+      "email": "fansekey@gmail.com"
+    },
+    {
+      "name": "hefangshi",
+      "email": "hefangshi@gmail.com"
+    },
+    {
+      "name": "zhangtao07",
+      "email": "zhang.tao.1006@163.com"
+    }
+  ],
+  "directories": {},
+  "publish_time": 1405497289977,
+  "_cnpm_publish_time": 1405497289977,
+  "_shasum": "86db76eab59b119c28ccf0259b6f5c13a1eddb65",
+  "_resolved": "https://registry.npm.taobao.org/fiswig-bigpipe/download/fiswig-bigpipe-0.0.12.tgz"
+}
