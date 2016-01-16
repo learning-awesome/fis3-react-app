@@ -2,7 +2,7 @@ fis3-react-app
 ====================
 
 
-基于fis3+express+swig + react 的前端和后端集成解决方案工程示例。在阅读此文档之前，希望你最好对fis、swig、express 、mysql有一定的了解。
+基于fis3+ express + swig + react + mysql的前端和后端集成解决方案工程示例。在阅读此文档之前，希望你最好对fis、swig、express 、mysql有一定的了解。
 
 
 ## 目录
@@ -45,22 +45,19 @@ fis3-react-app
 
 ```bash
 # 安装 fis 到全局
-npm install -g fis
+npm install -g fis3
 
 # 下载工程.
-git clone https://github.com/hubcarl/fis-express-swig.git
+git clone https://github.com/hubcarl/fis3-react-app.git
 
 
-# 进入 fis-express-swig  目录， release 后就可以预览了。
-cd fis-express-swig
+# 进入 fis3-react-app  目录， release 后就可以预览了。
+cd fis3-react-app
 
 
 #工程运行
-fis release -w 文件修改监控
-fis release -m  资源文件md5签名 
-fis release --optimize --md5 --watch --pack # fis release -omwp
-fis release -omwp   o 资源压缩  m 资源文件md5签名  w 文件修改监控   p打包合并
-fis server start --timeout 10000  --port 9000   --type node
+fis3 release -w 文件修改监控
+fis3 server start --timeout 10000  --port 9000   --type node
 ```
 
 ### page 目录
