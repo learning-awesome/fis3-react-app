@@ -10,6 +10,23 @@ fis.match('{*.jsx,*:jsx}', {
     optimizer: fis.plugin('uglify-js')
 
 });
+fis.match('server.js',{
+    useMap:false,
+    useHash: false,
+    useCompile: false
+});
+
+fis.match('/server/**.**',{
+    useMap:false,
+    useHash: false,
+    useCompile: false
+});
+
+fis.match('/node_modules/**.**', {
+    useMap:false,
+    useHash: false,
+    useCompile: false
+});
 
 fis.match('/{public,view}/**.{js,css,png}', {
     useHash: true
