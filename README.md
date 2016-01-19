@@ -202,3 +202,11 @@ news/index/index.tpl
 
 编译配置文件，详情请查看[配置 API](http://fis.baidu.com/docs/api/fis-conf.html)。
 
+
+### react资料
+
+https://segmentfault.com/a/1190000004120539
+
+### fis资料
+
+http://7demo.github.io/fis3%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86%E7%82%B9/

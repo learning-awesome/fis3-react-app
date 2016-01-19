@@ -1,0 +1,22 @@
+{
+  "name": "fis3-command-npm",
+  "version": "0.0.1",
+  "description": "fis3 自动安装node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hubcarl/fis3-command-npm"
+  },
+  "keywords": [
+    "fis3",
+    "server"
+  ],
+  "author": "sky",
+  "bugs": {
+    "url": "https://github.com/hubcarl/fis3-command-npm/issues"
+  },
+  "homepage": "https://github.com/hubcarl/fis3-command-npm"
+}
